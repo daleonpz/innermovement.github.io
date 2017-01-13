@@ -21,10 +21,10 @@ subtitle: "A free HTML5 agency template"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 # url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
-url: "https://myparkourjournal.com/innermovement.github.io"
-baseurl: "/airspace-jekyll"
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+url: https://myparkourjournal.com/innermovement.github.io
+#baseurl: "/airspace-jekyll"
+#cover: "/assets/cover.png"
+#logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
